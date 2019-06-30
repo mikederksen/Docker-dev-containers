@@ -4,7 +4,7 @@ This repository contains docker containers which can be used to host programming
 All containers can be accessed via ssl using the `root` user with password `Welkom@Docker01`.
 
 ## IDE integration
-Many IDEs support the use of containers for compiling your applications. Some of these IDEs are listed below
+Many IDEs support the use of containers for compiling your applications. Some of these IDEs are listed below.
 
 ### Rider
-*Description will be added here later*
+*Description will be added here later.*
